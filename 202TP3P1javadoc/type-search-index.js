@@ -1,1 +1,1 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"cartes","l":"Carte"},{"p":"cartes","l":"CouleurCartes"},{"p":"cartes","l":"PaquetDeCartes"},{"p":"cartes","l":"Pioche"},{"p":"cartes","l":"ValeurCartes"}];updateSearchResults();
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"cartes","l":"Carte"},{"p":"cartes","l":"CouleurCartes"},{"p":"cartes","l":"PaquetDeCartes"},{"p":"structures.pile","l":"Pile"},{"p":"cartes","l":"Pioche"},{"p":"cartes","l":"ValeurCartes"}];updateSearchResults();
